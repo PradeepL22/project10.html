@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@500&family=Poppins&family=Roboto:wght@500&display=swap');
+
+.portfolio{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.item-nav{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 18px;
+}
+.item-nav:hover{
+    color: rgb(29, 29, 218);
+}
+.navbar-section{
+    
+    border: 2px solid rgb(19, 19, 190);
+    display: flex;
+    justify-content: center;
+    line-height: 80px;
+    background-color: black;
+}
+.portfolio:hover{
+    color: rgb(29, 29, 218);
+}
+.home{
+    text-align: center;
+    
+    }
+    
+.content{
+    text-align: center;
+    font-size: 15px;
+    
+}
+.heading{
+    text-align: center;
+    font-weight: bolder;
+}
+.para{
+    text-align: center;
+    font-size: 15px;
+}
+.skills{
+    text-align: center;
+    font-size: 15px;
+}
+.contact{
+    text-align: center;
+}
+
+
+
+
